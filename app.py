@@ -1,5 +1,7 @@
+import imp
 from helpers.log import logs
+import antigravity
 
-logs('logging is ok')
-logs('logging is bad')
-logs('logging is good')
+logs('is ok')
+logs('is bad')
+logs('is good')
